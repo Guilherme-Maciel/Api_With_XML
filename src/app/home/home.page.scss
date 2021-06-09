@@ -1,0 +1,19 @@
+#container{
+  display: flex;
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+
+}
+
+#container .search-cep{
+  width: 100%;
+}
+
+#container .result-container .yes-no-maybe-buttons{
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+}
