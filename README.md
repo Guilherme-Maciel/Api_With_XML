@@ -6,7 +6,7 @@
 
 Projeto criado ustilizando Ionic Cordova para a plataforma Android para realização de consulta a partir de um CEP
 
-![Generic badge](https://img.shields.io/badge/Status-Finalizado-green.svg)
+![Generic badge](https://img.shields.io/badge/Status-Finalizado-green.svg)<br>
 ![Generic badge](https://img.shields.io/badge/npm-v7.13.0-blue.svg)
 ![Generic badge](https://img.shields.io/badge/ionic-v6.16.1-blue.svg)
 ![Generic badge](https://img.shields.io/badge/cordova-v10.0.0-blue.svg)
