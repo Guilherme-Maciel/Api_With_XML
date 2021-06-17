@@ -14,7 +14,7 @@ Projeto criado ustilizando Ionic Cordova para a plataforma Android para realiza√
 
 ## Funcionalidades
 
-- Design e layout utilizando framework Ionic, Angular e SCSS
+- Design e layout utilizando framework Ionic, Angular e SASS
 - Compativel com dispositivos mobile
 - Busca CEP via Web Service: [Via CEP](https://viacep.com.br/)
 
