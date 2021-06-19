@@ -24,10 +24,16 @@ Projeto criado ustilizando Ionic Cordova para a plataforma Android para realiza�
 
 <div align="center">
   
-| <a href="https://ionicframework.com/" target="_blank"><div align="center"><img src="https://ionic-toolkit.netlify.app/images/ionic%20logo.png" alt="demo" height="50px"><p>Ionic</p></div></a> | <div align="center"><img src="https://www.vectoritcgroup.com/wp-content/uploads/2018/07/angular-icon-1.svg" alt="Angular" height="50px"><p>Angular</p></div> | <div align="center"><img src="https://d2kl895r0zn1i5.cloudfront.net/images/476_logo-cordova.svg" alt="Cordova" height="50px"><p>Cordova</p></div> | <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50px"><p>TypeScript</p></div> | <div align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="SASS" height="50px"><p>SASS</p></div> | <div align="center"><img src="https://www.feedstock.com.br/site/static/img/node.png" alt="Nodejs" height="50px"><p>Node.js</p></div> |
+| [<div align="center"><img src="https://ionic-toolkit.netlify.app/images/ionic%20logo.png" alt="demo" height="50px"><p>Ionic</p></div></a>](https://ionicframework.com/) | [<div align="center"><img src="https://www.vectoritcgroup.com/wp-content/uploads/2018/07/angular-icon-1.svg" alt="Angular" height="50px"><p>Angular</p></div>](https://angular.io/) | [<div align="center"><img src="https://d2kl895r0zn1i5.cloudfront.net/images/476_logo-cordova.svg" alt="Cordova" height="50px"><p>Cordova</p></div>](https://cordova.apache.org/) | [<div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="TypeScript" height="50px"><p>TypeScript</p></div>](https://www.typescriptlang.org/) | [<div align="center"><img src="https://cdn.iconscout.com/icon/free/png-256/sass-2752078-2284895.png" alt="SASS" height="50px"><p>SASS</p></div>](https://sass-lang.com/) | [<div align="center"><img src="https://www.feedstock.com.br/site/static/img/node.png" alt="Nodejs" height="50px"><p>Node.js</p></div>](https://nodejs.org/) |
 |--------|--------|--------|--------|--------|--------|
-  
+
 </div>
+
+## Clonando o projeto
+
+## Instalando dependências
+
+## Compilação
 
 
 
