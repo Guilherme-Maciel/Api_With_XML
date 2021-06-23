@@ -20,6 +20,14 @@ Projeto criado ustilizando Ionic Cordova para a plataforma Android para realiza�
 
 ## Pré-requisitos
 
+- [x] [JDK-8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+- [x] [Node.js](https://nodejs.org/en/)
+- [x] Instalação do SDK Android
+- [x] Configuração das variáveis de sistema e de ambiente (ANDROID_SDK_ROOT)
+- [x] Instalação do [Gradle](https://gradle.org/install/)
+
+📓 Você pode encontrar todo o processo necessário para instalação dos pré requisitos clicando [aqui](https://proguyzo.blogspot.com/2021/06/instalacao-da-plataforma-ionic-cordova.html)
+
 ## Tecnologias e Ferramentas
 
 <div align="center">
