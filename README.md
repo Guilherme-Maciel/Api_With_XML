@@ -43,6 +43,19 @@ Projeto criado ustilizando Ionic Cordova para a plataforma Android para realiza�
 
 ## Compilação
 
+- Use um emulador ou conecte seu dispositivo android via USB na máquina.
+- Ao conectar o dispositivo, confira se ele está listado com o comando:
+```bash
+adb devices -l
+```
+- Com a listagem feita e a confirmação de que há dispositivos listados, digite:
+```bash
+ionic cordova run android -l
+```
+- Aguarde a compilação. Pode demorar bastante.
+
+
+
 
 
 
