@@ -4,7 +4,7 @@
   <img src="https://github.com/Guilherme-Maciel/readme_images/blob/master/apiXml/2.jpg" height="425">
 </h1>
 
-Projeto criado ustilizando Ionic Cordova para a plataforma Android para realização de consulta a partir de um CEP
+Projeto criado utilizando Ionic Cordova para a plataforma Android para realização de consulta a partir de um CEP
 
 ![Generic badge](https://img.shields.io/badge/Status-Finalizado-green.svg)<br>
 ![Generic badge](https://img.shields.io/badge/npm-v7.13.0-blue.svg)
