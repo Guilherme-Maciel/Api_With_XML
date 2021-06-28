@@ -22,7 +22,9 @@ Projeto criado utilizando Ionic Cordova para a plataforma Android para realizaç
 
 - [x] [JDK-8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
 - [x] [Node.js](https://nodejs.org/en/)
-- [x] Instalação do SDK Android
+- [x] [Ionic](https://ionicframework.com/docs/intro/cli)
+- [x] [Cordova](https://cordova.apache.org/#getstarted)
+- [x] Instalação do [SDK Android](https://developer.android.com/studio?hl=pt&gclsrc=aw.ds&gclid=Cj0KCQjw5uWGBhCTARIsAL70sLL4XGSCZh_d7Qusy9SMyaj2FBfyc9UYyZFuJBH_A1eytpUhrm-m3tsaArVFEALw_wcB)
 - [x] Configuração das variáveis de sistema e de ambiente (ANDROID_SDK_ROOT)
 - [x] Instalação do [Gradle](https://gradle.org/install/)
 
@@ -39,11 +41,24 @@ Projeto criado utilizando Ionic Cordova para a plataforma Android para realizaç
 
 ## Clonando o projeto
 
-## Instalando dependências
+- Clone o projeto utilizando git clone:
+```bash
+git clone https://github.com/Guilherme-Maciel/Api_With_XML.git
+```
+- Instale o @ionic/cli localmente no projeto:
+```bash
+npm install @ionic/cli
+```
+- Teste com ```ionic serve```<br>
+OBS: é necessário compilar a aplicação em um dispositivo android ou em um emulador para que as funcionalidades sejam ativadas.
+
+## Dependências
 
 ## Compilação
 
-- Use um emulador ou conecte seu dispositivo android via USB na máquina.
+### Via USB
+
+- Conecte seu dispositivo android via USB na máquina.
 - Ao conectar o dispositivo, confira se ele está listado com o comando:
 ```bash
 adb devices -l
